@@ -1,6 +1,5 @@
 # corse-traning
 corse traning
 
-
-![](screen home.png)
-![](screen blog.png)
+![](screenshot.png)
+![](screensht2.png)
